@@ -11,10 +11,11 @@ Users should be able to:
 - See the size of the elements adjust based on their device's screen size
 - Perform mathmatical operations like addition, subtraction, multiplication, and division
 - Adjust the color theme based on their preference
+- Use the calculator with keyboard
 
 ## Links
 
-- [Solution URL](https://your-solution-url.com)
+- [Solution URL](https://www.frontendmentor.io/solutions/calculator-app-VMtKqPRzi)
 - [Live Site URL](https://calculator-app-developingweb.vercel.app)
 
 ## My process
